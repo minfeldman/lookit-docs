@@ -333,6 +333,7 @@ List of tutorial participants
 - Molly Langer (Northwestern University)
 - Ellen Habteyonas (Vanderbilt University)
 - Hayato Ono (University of Tokyo)
+- Min Feldman (Harvard University)
 
 Checking for and creating issues on Github
 -------------------------------------------
